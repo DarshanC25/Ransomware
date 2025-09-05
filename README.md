@@ -1,0 +1,2 @@
+# Ransomware
+Increasing ransomware attacks causing financial and data losses. Traditional methods fail against evolving ransomware. Intelligent machine learning-based detection using K-Nearest Neighbors (KNN) and density-based algorithms.
